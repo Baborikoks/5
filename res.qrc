@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/vxd.png</file>
+        <file>img/sav.png</file>
+        <file>img/rotat.png</file>
+        <file>img/rect.png</file>
+        <file>img/pen.png</file>
+        <file>img/otc.png</file>
+        <file>img/lw.png</file>
+        <file>img/line.png</file>
+        <file>img/izm.png</file>
+        <file>img/ell.png</file>
+        <file>img/dvig.png</file>
+        <file>img/del.png</file>
+        <file>img/col.png</file>
+    </qresource>
+</RCC>
